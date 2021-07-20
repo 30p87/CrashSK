@@ -4,12 +4,12 @@ import java.util.Collections;
 
 import javax.annotation.Nullable;
 
-import org.bukkit.craftbukkit.v1_16_R2.entity.CraftPlayer;
+import org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.event.Event;
 
-import net.minecraft.server.v1_16_R2.PacketPlayOutExplosion;
-import net.minecraft.server.v1_16_R2.Vec3D;
+import net.minecraft.server.v1_16_R3.PacketPlayOutExplosion;
+import net.minecraft.server.v1_16_R3.Vec3D;
 
 import ch.njol.skript.Skript;
 import ch.njol.skript.lang.Effect;
